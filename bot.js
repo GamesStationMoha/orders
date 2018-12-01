@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 
-const clien20 = new Discord.Client();
+const client20 = new Discord.Client();
 
 console.log("BOT ONLINE");
  
