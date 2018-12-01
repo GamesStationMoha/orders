@@ -7,7 +7,7 @@ console.log("BOT ONLINE");
 
 client20.on("guildMemberAdd", member => {
   let guild = member.guild;
-  client20.channels.get("516270083446669367").sendMessage("**Welcome To GamesStation™ .. :rose: :GS:**")
+  client20.channels.get("516270083446669367").sendMessage("**Welcome To GamesStation™ .. :rose:**")
   });
 client20.login(process.env.TOKEN20);
 
@@ -19,7 +19,7 @@ console.log("BOT ONLINE");
 
 client19.on("guildMemberAdd", member => {
   let guild = member.guild;
-  client19.channels.get("516270083446669367").sendMessage("**Welcome To GamesStation™ .. :sunflower: :GS: **")
+  client19.channels.get("516270083446669367").sendMessage("**Welcome To GamesStation™ .. :sunflower: **")
   });
 client19.login(process.env.TOKEN19);
 
@@ -30,7 +30,7 @@ console.log("BOT ONLINE");
 
 client18.on("guildMemberAdd", member => {
   let guild = member.guild;
-  client18.channels.get("516270083446669367").sendMessage("**Welcome To GamesStation™ .. :sunflower: :GS: **")
+  client18.channels.get("516270083446669367").sendMessage("**Welcome To GamesStation™ .. :blossom:   **")
   });
 client18.login(process.env.TOKEN18);
   
